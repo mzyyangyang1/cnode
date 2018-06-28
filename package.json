@@ -1,0 +1,23 @@
+{
+  "name": "cnode",
+  "version": "1.0.0",
+  "description": "这是一个简单的社区",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzyyangyang1/cnode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzyyangyang1/cnode/issues"
+  },
+  "homepage": "https://github.com/mzyyangyang1/cnode#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
